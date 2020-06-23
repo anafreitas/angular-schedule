@@ -1,0 +1,39 @@
+.card {
+    margin: 10px;
+}
+
+.professional-description {
+    margin-top: 10px;
+    overflow: hidden;
+    position: relative;
+    line-height: 1.2em;
+    max-height: 3.6em;
+    text-align: justify;
+    margin-right: -1em;
+    padding-right: 1em;
+}
+
+.professional-description:before {
+    content: "...";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.professional-descriptiont:after {
+    content: "";
+    position: absolute;
+    right: 0;
+    width: 1em;
+    height: 1em;
+    margin-top: 0.2em;
+    background: white;
+}
+
+.professional-picture {
+    border-radius: 50%;
+}
+
+.professional-link {
+    text-align: right;
+}

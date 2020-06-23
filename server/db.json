@@ -1,0 +1,281 @@
+{
+    "professionals": [
+        {
+            "id": "92226569-ACF8-7C96-CDF1-C913497EB51E",
+            "name": "Nigel Williams",
+            "profilePicture": "https://via.placeholder.com/150",
+            "occupation": "Psychologist",
+            "location": "São Paulo",
+            "timezone": "-3",
+            "score": 3,
+            "reviewsCount": 67,
+            "sessionPrice": 8.24,
+            "sessionDuration": 27,
+            "description": "Eros nec tellus. Nunc lectus pede, ultrices a, auctor non, feugiat nec, diam. Duis mi enim, condimentum eget, volutpat ornare, facilisis eget, ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida nunc sed pede. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin vel arcu eu odio tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia vitae, sodales at, velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam a felis ullamcorper viverra. Maecenas iaculis aliquet diam. Sed diam lorem, auctor quis, tristique ac, eleifend vitae, erat. Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie dapibus ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit. Sed malesuada augue ut lacus. Nulla tincidunt, neque vitae semper egestas, urna justo faucibus lectus, a sollicitudin orci sem eget massa. Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet"
+        },
+        {
+            "id": "3FECBDD3-7A44-312B-5020-881C0967D2A0",
+            "name": "Acton Berger",
+            "profilePicture": "https://via.placeholder.com/150",
+            "occupation": "Psychiatrist",
+            "location": "Lisboa",
+            "timezone": "+1",
+            "score": 2,
+            "reviewsCount": 3,
+            "sessionPrice": 7.68,
+            "sessionDuration": 30,
+            "description": "Quam. Curabitur vel lectus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec dignissim magna a tortor. Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi nibh lacinia orci, consectetuer euismod est arcu ac orci. Ut semper pretium neque. Morbi quis urna. Nunc quis arcu vel quam dignissim pharetra. Nam ac nulla. In tincidunt congue turpis. In condimentum. Donec at arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec tincidunt. Donec vitae erat vel pede blandit congue. In scelerisque scelerisque dui. Suspendisse ac metus vitae velit egestas lacinia. Sed"
+        },
+        {
+            "id": "6B76B191-AA4C-894A-0217-74E6AFBBF1D5",
+            "name": "Telma Nascimento",
+            "profilePicture": "https://via.placeholder.com/150",
+            "occupation": "Coach",
+            "location": "São Paulo",
+            "timezone": "-3",
+            "score": 5,
+            "reviewsCount": 71,
+            "sessionPrice": 5.50,
+            "sessionDuration": 17,
+            "description": "Vestibulum massa rutrum magna. Cras convallis convallis dolor. Quisque tincidunt pede ac urna. Ut tincidunt vehicula risus. Nulla eget metus eu erat semper rutrum. Fusce dolor quam, elementum at, egestas a, scelerisque sed, sapien. Nunc pulvinar arcu et pede. Nunc sed orci lobortis augue scelerisque mollis. Phasellus libero mauris, aliquam eu, accumsan sed, facilisis vitae, orci. Phasellus dapibus quam quis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce aliquet magna a neque. Nullam ut nisi a odio semper cursus. Integer mollis. Integer tincidunt aliquam arcu. Aliquam ultrices iaculis odio. Nam interdum enim non nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut erat. Sed nunc est, mollis non, cursus non, egestas a, dui. Cras pellentesque. Sed dictum. Proin eget odio. Aliquam vulputate ullamcorper magna. Sed eu eros. Nam consequat dolor vitae dolor. Donec fringilla. Donec feugiat metus sit amet ante. Vivamus non lorem vitae odio sagittis semper. Nam tempor diam dictum sapien. Aenean massa. Integer vitae nibh. Donec est mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse aliquet, sem ut cursus luctus, ipsum leo elementum sem, vitae aliquam eros turpis non enim. Mauris quis turpis vitae purus gravida sagittis. Duis gravida. Praesent eu nulla at sem molestie sodales. Mauris blandit enim consequat purus. Maecenas libero est, congue a, aliquet vel, vulputate eu, odio. Phasellus at augue id ante dictum cursus. Nunc mauris elit, dictum eu, eleifend nec, malesuada ut, sem. Nulla interdum. Curabitur dictum. Phasellus in felis. Nulla tempor augue ac ipsum. Phasellus vitae mauris sit amet lorem semper auctor. Mauris vel turpis. Aliquam adipiscing lobortis risus. In mi pede, nonummy ut, molestie in, tempus eu, ligula. Aenean euismod mauris eu elit. Nulla facilisi. Sed neque. Sed eget lacus. Mauris non dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus ornare. Fusce mollis. Duis sit amet diam eu dolor egestas rhoncus. Proin nisl sem, consequat nec, mollis vitae, posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id"
+        },
+        {
+            "id": "942F8357-A238-92E0-A13B-BCFF3534B0D2",
+            "name": "Elvis Bird",
+            "profilePicture": "https://via.placeholder.com/150",
+            "occupation": "Psychologist",
+            "location": "São Paulo",
+            "timezone": "-3",
+            "score": 2,
+            "reviewsCount": 40,
+            "sessionPrice": 4.36,
+            "sessionDuration": 3,
+            "description": "Aliquam erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim mi tempor lorem, eget mollis lectus pede et risus. Quisque libero lacus, varius et, euismod et, commodo at, libero. Morbi accumsan laoreet ipsum. Curabitur consequat, lectus sit amet luctus vulputate, nisi sem semper erat, in consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum accumsan neque et nunc. Quisque ornare tortor at risus. Nunc ac sem ut dolor dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare, lectus ante dictum mi, ac mattis velit justo nec ante. Maecenas mi felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum. Nunc sollicitudin commodo ipsum. Suspendisse non leo. Vivamus nibh dolor, nonummy ac, feugiat non, lobortis quis, pede. Suspendisse dui. Fusce diam nunc, ullamcorper eu, euismod ac, fermentum vel, mauris. Integer sem elit, pharetra ut, pharetra sed, hendrerit a, arcu. Sed et libero. Proin mi. Aliquam gravida mauris ut mi. Duis risus odio, auctor vitae, aliquet nec, imperdiet nec, leo. Morbi neque tellus, imperdiet"
+        },
+        {
+            "id": "21BA34A5-DEAD-1EED-F067-A91654643872",
+            "name": "Deanna Lee",
+            "profilePicture": "https://via.placeholder.com/150",
+            "occupation": "Psychiatrist",
+            "location": "Lisboa",
+            "timezone": "+1",
+            "score": 3,
+            "reviewsCount": 12,
+            "sessionPrice": 1.63,
+            "sessionDuration": 16,
+            "description": "Aliquet magna a neque. Nullam ut nisi a odio semper cursus. Integer mollis. Integer tincidunt aliquam arcu. Aliquam ultrices iaculis odio. Nam interdum enim non nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut erat. Sed nunc est, mollis non, cursus non, egestas a, dui. Cras pellentesque. Sed dictum. Proin eget odio. Aliquam vulputate ullamcorper magna. Sed eu eros. Nam consequat dolor vitae dolor. Donec fringilla. Donec feugiat metus sit amet ante. Vivamus non lorem vitae odio sagittis semper. Nam tempor diam dictum sapien. Aenean massa. Integer vitae nibh. Donec est mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse aliquet, sem ut cursus luctus, ipsum leo elementum sem, vitae aliquam eros turpis non enim. Mauris quis turpis vitae purus gravida sagittis. Duis gravida. Praesent eu nulla at sem molestie sodales. Mauris blandit enim consequat purus. Maecenas libero est, congue a, aliquet vel, vulputate eu, odio. Phasellus at augue id ante dictum cursus. Nunc mauris elit, dictum eu, eleifend nec, malesuada ut, sem. Nulla interdum. Curabitur dictum. Phasellus in felis. Nulla tempor augue ac ipsum. Phasellus vitae mauris sit amet lorem semper auctor. Mauris vel turpis. Aliquam adipiscing lobortis risus. In mi pede, nonummy ut, molestie in, tempus eu, ligula. Aenean euismod mauris eu elit. Nulla facilisi. Sed neque. Sed eget lacus. Mauris non dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus ornare. Fusce mollis. Duis sit amet diam eu dolor egestas rhoncus. Proin nisl sem, consequat nec, mollis vitae, posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus quis diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis ac arcu. Nunc mauris. Morbi non sapien molestie orci tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor ullamcorper, nisl arcu iaculis enim, sit amet ornare lectus justo eu arcu. Morbi sit amet massa. Quisque porttitor eros nec tellus. Nunc lectus pede, ultrices a, auctor non, feugiat nec, diam. Duis mi enim, condimentum eget, volutpat ornare, facilisis eget, ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida"
+        }
+    ],
+    "schedules": [
+        {
+            "id": "51F553DD-F839-A711-BFAE-96A404B4ED2F",
+            "professionalId": "92226569-ACF8-7C96-CDF1-C913497EB51E",
+            "date": "2020-09-10",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "387AA1DA-8A3D-8B93-94D8-DECA3E8D2050",
+            "professionalId": "92226569-ACF8-7C96-CDF1-C913497EB51E",
+            "date": "2019-12-24",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "0D6DF983-8278-AF03-83CB-2E84E2342E71",
+            "professionalId": "92226569-ACF8-7C96-CDF1-C913497EB51E",
+            "date": "2020-05-17",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "9065AB5D-5A3F-F867-EF78-A403F959D1FA",
+            "professionalId": "92226569-ACF8-7C96-CDF1-C913497EB51E",
+            "date": "2020-01-10",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "2B010875-3A9C-51F8-FAF9-1774E9742ED1",
+            "professionalId": "92226569-ACF8-7C96-CDF1-C913497EB51E",
+            "date": "2019-10-25",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "42BB9129-54E5-F641-B369-DFF5DBA7CE7D",
+            "professionalId": "3FECBDD3-7A44-312B-5020-881C0967D2A0",
+            "date": "2021-06-02",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "80C55AEA-5E92-4D23-0866-CE05E5A0286C",
+            "professionalId": "3FECBDD3-7A44-312B-5020-881C0967D2A0",
+            "date": "2020-05-08",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "6AB7F7C7-D474-BCE3-F6E1-922F8416DE29",
+            "professionalId": "3FECBDD3-7A44-312B-5020-881C0967D2A0",
+            "date": "2020-09-03",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "B349D14E-8A66-B2BF-DC3F-1C3466FC18A9",
+            "professionalId": "3FECBDD3-7A44-312B-5020-881C0967D2A0",
+            "date": "2020-04-25",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "9E4E8991-DCB0-487C-46B7-C399AE65C1FB",
+            "professionalId": "3FECBDD3-7A44-312B-5020-881C0967D2A0",
+            "date": "2020-06-03",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "E5D4C20A-3BC4-EE32-6E94-7C80DAD84CCE",
+            "professionalId": "6B76B191-AA4C-894A-0217-74E6AFBBF1D5",
+            "date": "2020-08-16",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "25EA79EF-FE58-7D75-4CC1-309A5DFE38A9",
+            "professionalId": "6B76B191-AA4C-894A-0217-74E6AFBBF1D5",
+            "date": "2020-03-24",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "33FA731A-632B-F620-E75C-4D907C15130B",
+            "professionalId": "6B76B191-AA4C-894A-0217-74E6AFBBF1D5",
+            "date": "2020-11-22",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "72E31C3E-5C7D-6BDB-82D2-3E4C957AE7A3",
+            "professionalId": "6B76B191-AA4C-894A-0217-74E6AFBBF1D5",
+            "date": "2020-10-11",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        },
+        {
+            "id": "2F77619E-0266-8BC2-415F-115BF48D7B9B",
+            "professionalId": "6B76B191-AA4C-894A-0217-74E6AFBBF1D5",
+            "date": "2019-11-05",
+            "slots": [
+                "08:00",
+                "09:00",
+                "10:00",
+                "13:00",
+                "14:00",
+                "15:00",
+                "16:00"
+            ]
+        }
+    ]
+}

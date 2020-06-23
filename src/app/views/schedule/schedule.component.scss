@@ -1,0 +1,32 @@
+.navbar-dark {
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.schedule-dates {
+    display: flex;
+    .date-bar {
+        width: 100%;
+    }
+    .date-block {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding: 10px;
+        flex-direction: column;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    }
+    p {
+        margin: 0;
+    }
+
+    .slot {
+        margin: 20px 10px;
+        padding: 10px;
+        text-align: center;
+        background-color: #dae0e5;
+        border-radius: 4px;
+    }
+}

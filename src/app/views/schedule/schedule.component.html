@@ -1,0 +1,19 @@
+<nav class="navbar navbar-dark bg-primary">
+    <h4>Schedule your session!</h4>
+    <p>Timezone: {{professional?.location}} ({{professional?.timezone}})</p>
+</nav>
+
+<div class="schedule-dates">
+    <div class="date-bar" *ngFor='let item of professional.schedules'>
+        <div class="date-block">
+            <strong>{{item.date | date:'EE' | uppercase}}</strong>
+            <p>{{item.date | date:'MMM dd' | uppercase}}</p>
+        </div>
+
+        <div>
+            <div class="slot" *ngFor='let slot of item.slots'>
+                {{slot}}
+            </div>
+        </div>
+    </div>
+</div>
