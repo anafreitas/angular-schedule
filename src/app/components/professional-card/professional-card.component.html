@@ -10,6 +10,7 @@
                     <strong class="text-primary">{{professional.occupation}}</strong> | {{professional.location}}
                 </p>
                 <p>
+                    <ngb-rating [rate]="professional.score" max="5" readonly="true"></ngb-rating>
                     ({{professional.reviewsCount}} reviews)
                 </p>
                 <p>
